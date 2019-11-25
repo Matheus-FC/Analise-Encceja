@@ -9,6 +9,7 @@ Utilizar o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para ins
 ```bash
 pip install jupyterlab
 pip install pandas
+pip install matplotlib
 ```
 
 ## Utilização
