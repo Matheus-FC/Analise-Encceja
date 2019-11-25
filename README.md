@@ -35,5 +35,4 @@ Baixar microdados através do site do [INEP](http://portal.inep.gov.br/microdado
 
 # Feito por:
 
-Luis Gabriel dos Santos Belo
-Matheus Froes Cinachi
+Luis Gabriel dos Santos Belo e Matheus Froes Cinachi
