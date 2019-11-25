@@ -33,6 +33,7 @@ df['2018'].value_counts(sort=True).plot.bar()# Exibe dados de 2018
 ## Base de dados
 Baixar microdados através do site do [INEP](http://portal.inep.gov.br/microdados) para adquirir os respectivos dados do ENCCEJA.
 
-#Feito por:
+# Feito por:
+
 Luis Gabriel dos Santos Belo
 Matheus Froes Cinachi
